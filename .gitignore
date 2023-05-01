@@ -14,3 +14,4 @@ amqp-vertx/target/*
 amqp-qpid/qpid-quarkus/target/classes/application.properties
 amqp-qpid/qpid-standard/target/classes/jndi.properties
 Spring-JMS/target/classes/application.properties
+Spring-JMS/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
