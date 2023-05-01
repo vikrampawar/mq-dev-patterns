@@ -11,3 +11,6 @@
 **/node_modules/*
 .idea
 amqp-vertx/target/*
+amqp-qpid/qpid-quarkus/target/classes/application.properties
+amqp-qpid/qpid-standard/target/classes/jndi.properties
+Spring-JMS/target/classes/application.properties
